@@ -1,0 +1,5 @@
+N = 10000, H = 1000
+PBF  beated Heuristic 6886 times (equal = 79)
+PACK beated Heuristic 3929 times (equal = 67)
+PBF  average = 34.5582  ; variance = 87.0732
+PACK average = -31.689  ; variance = 112.375
